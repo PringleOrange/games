@@ -5,7 +5,9 @@ body {
 }
 
 /* Navigation */
-
+.center {
+  text-align: center;
+}
 .navigation {
   box-sizing: border-box;
   background-color: #3587A4;
